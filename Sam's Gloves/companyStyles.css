@@ -1,0 +1,21 @@
+/*Samuel Greenlee*/
+body { background-color: #F8EFD1;
+	   color: #000000;
+	   box-shadow: 5px 5px 5px #1e1e1e;}
+header { background-color: #96622B; }
+header h1 { color: #F8EFD1;
+            text-align: center;
+		    font-weight: bold; }
+footer { text-align: center; 
+		 background-color: #96622B; }
+footer p { font-style: italic;
+           color: #F8EFD1; }
+#wrapper { width: 960px;
+           margin-right: auto;
+           margin-left: auto; }
+#picFloatLeft { margin: 10px;
+				 float: left; }
+#slide {margin: 10px;
+        float: right;}	        		 
+#slides { display: none; } 				 
+.textindent { text-indent: 5em; }
